@@ -4,7 +4,7 @@
 
 ## Here are some ideas to get about me
 - 🔭 I’m currently learning & working on Laravel
-- 🌱 I’m currently learning & Working on Vue JS 
+- 🌱 I’m currently learning on Nuxt JS 
 - 💬 Ask me about 
 - 📫 How to reach me: [Facebook](https://facebook.com/md.tarekul.313)
 
