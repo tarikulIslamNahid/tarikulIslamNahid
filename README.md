@@ -2,6 +2,9 @@
 
 > I am a Web Developer from Dhaka. I work with JavaScript, Vue.js, Laravel, REST API, MySQL & Git. You can see what I am currently up to on [TarekulDev.com](https://tarekuldev.com).
 
+![Profile views](https://gpvc.arturio.dev/tarikulIslamNahid)  <img src="https://img.shields.io/github/followers/tarikulIslamNahid?label=Follow" style=" float:left, margin-right:10px" />
+
+
 ## Here are some ideas to get about me
 - 🔭 I’m currently learning & working on Laravel
 - 🌱 I’m currently learning on Nuxt JS 
