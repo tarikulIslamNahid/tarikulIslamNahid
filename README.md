@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-> I am a Web Developer from Dhaka. I work with JavaScript, Vue.js, Laravel, REST API, MySQL & Git. You can see what I am currently up to on [TarekulDev.com](https://tarekuldev.com).
+> Hi! My name Is Tarikul Islam Nahid. I am completing my diploma in civil from a national polytechnic institution. And I am a backend developer with 2 years of experience  and a specialisation in laravel and Vue Js.  I have a deep interest in the development and I have made 3 full-stack projects using laravel and vuejs.
 &nbsp;
 
 
