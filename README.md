@@ -44,7 +44,7 @@
 ## 📬 Get in touch
 <p align="left">
 <a href="https://www.tarekuldev.com"><img src="https://img.shields.io/badge/-tarekuldev.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muniraakter/"><img src="https://img.shields.io/badge/-Tarikul%20Islam%20Nahid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tarikulislamnahid/"><img src="https://img.shields.io/badge/-Tarikul%20Islam%20Nahid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tarikulislamnahid15@gmail.com"><img src="https://img.shields.io/badge/-tarikulislamnahid15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/md.tarekul.313"><img src="https://img.shields.io/badge/-@TarikulIslamNahid-4267B2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/tarikulislamnahid/"><img src="https://img.shields.io/badge/-@TarikulIslam-8a3ab9?style=flat&logo=Instagram&logoColor=white"/></a>
