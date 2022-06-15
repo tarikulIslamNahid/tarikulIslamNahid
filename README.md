@@ -1,6 +1,6 @@
 ![Tarikul Islam Nahid Banner](https://github.com/tarikulIslamNahid/tarikulIslamNahid/blob/main/tarikulIslamNahid.png)
 
-<img alt="Night Coding" src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width='40' align="left"/>  <h2>  Hi there   I am Tarikul ! Nice to meet you!</h2>
+<img alt="Tarikul" src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width='40' align="left"/>  <h2>  Hi there   I am Tarikul ! Nice to meet you!</h2>
 
 &nbsp;
 
@@ -13,6 +13,9 @@
 ![Profile views](https://gpvc.arturio.dev/tarikulIslamNahid)  <img src="https://img.shields.io/github/followers/tarikulIslamNahid?label=Follow" style=" float:left, margin-right:10px" />
 
 &nbsp;
+
+ <img alt="Tarikul Islam Nahid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikulIslamNahid&theme=blue-green" align="right"/>
+
 
 ### 🛠 &nbsp;My Tech world
 
