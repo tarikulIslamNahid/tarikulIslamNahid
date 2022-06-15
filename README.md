@@ -1,4 +1,6 @@
-## Hi there   I am Tarikul ! Nice to meet you!
+![Tarikul Islam Nahid Banner](https://github.com/tarikulIslamNahid/tarikulIslamNahid/blob/main/tarikulislamNahid.png)
+
+<img alt="Night Coding" src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width='40' align="left"/><h2>Hi there   I am Tarikul ! Nice to meet you!</h2>
 
 > I am a Web Developer from Dhaka. I work with JavaScript, Vue.js, Laravel, REST API, MySQL & Git. You can see what I am currently up to on [TarekulDev.com](https://tarekuldev.com).
 
