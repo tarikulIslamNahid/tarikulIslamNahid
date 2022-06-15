@@ -1,4 +1,4 @@
-![Tarikul Islam Nahid Banner](https://github.com/tarikulIslamNahid/tarikulIslamNahid/blob/main/tarikulislamNahid.png)
+![Tarikul Islam Nahid Banner](https://github.com/tarikulIslamNahid/tarikulIslamNahid/blob/main/tarikulIslamNahid.png)
 
 <img alt="Night Coding" src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width='40' align="left"/><h2>Hi there   I am Tarikul ! Nice to meet you!</h2>
 
