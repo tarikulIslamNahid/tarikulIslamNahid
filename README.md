@@ -6,16 +6,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-> Hi! My name Is Tarikul Islam Nahid. I am completing my diploma in civil from a national polytechnic institution. And I am a backend developer with 2 years of experience  and a specialisation in laravel and Vue Js.  I have a deep interest in the development and I have made 3 full-stack projects using laravel and vuejs.
+> Hi! My name is Tarikul Islam Nahid. As a highly motivated and passionate full-stack developer, I bring 3 years+ of solid experience in both frontend and backend development to the table. Throughout my career, I have honed my skills in a variety of technologies, enabling me to tackle a wide range of web development projects.
+
+On the frontend, I am proficient in frameworks such as Vue.js and Nuxt.js, which empower me to create dynamic and interactive user interfaces. I have a strong command of HTML, CSS, and JavaScript, allowing me to craft visually appealing and responsive web applications.
+
+When it comes to backend development, I have expertise in Laravel and Adonis.js. These powerful PHP frameworks enable me to build robust and scalable server-side applications. I am well-versed in creating RESTful APIs, implementing database models, and integrating third-party services.
+
+I have experience working with WebSockets, allowing me to develop real-time applications with features like chat systems, notifications, and live updates. I am also skilled in deploying applications on cloud servers.
 &nbsp;
-
-
-![Profile views](https://gpvc.arturio.dev/tarikulIslamNahid)  <img src="https://img.shields.io/github/followers/tarikulIslamNahid?label=Follow" style=" float:left, margin-right:10px" />
-
-&nbsp;
-
- <img alt="Tarikul Islam Nahid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikulIslamNahid&theme=blue-green" align="right"/>
-
 
 ### 🛠 &nbsp;My Tech world
 
@@ -36,8 +34,8 @@
 ![TypeScript](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
 
 ## Here are some ideas to get about me
-- 🔭 I’m currently learning & working on Laravel
-- 🌱 I’m currently learning on NODE JS 
+- 🔭 I’m currently working on Laravel, NuxtJs
+- 🌱 I’m currently learning on NODE JS(EXPRESS JS) 
 - 💬 Ask me about 
 - 📫 How to reach me: [Facebook](https://facebook.com/md.tarekul.313)
 
